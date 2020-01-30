@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dierenooha.sqlviz.com/sitemap.xml
